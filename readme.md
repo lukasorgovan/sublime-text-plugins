@@ -32,6 +32,8 @@ write `/**` and press `Enter` or `Tab`. You will get block comment. If the line 
 ## How to sync your plugins (packages) AND preferences accross multiple computers
 Probably the best is to use Dropbox folder and make symlinks
 
+[How-to sync](http://misfoc.us/post/18018400006/syncing-sublime-text-2-settings-via-dropbox) **for Windows users**
+
 1. Quit Sublime Text 2
 2. In your Dropbox folder create new folder called Sublime Text 2
 3. Open the folder with your sublime settings (should be `~/Library/Application Support/Sublime\ Text\ 2/`)
