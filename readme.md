@@ -8,8 +8,8 @@ This is list of all packages (plugins) I use in my projects. Some of them more o
 write `/**` and press `Enter` or `Tab`. You will get block comment. If the line direclty afterwards contains a function definition, parameters and function name will be added. Check [documentation](https://github.com/spadgos/sublime-jsdocs)
 * [Markdown preview](https://github.com/revolunet/sublimetext-markdown-preview) - wonderfull plugin for reading .MD files from. It even contains Markdown CheatSheet!
 * [JSHint](http://www.jshint.com/install/) - you need to have Node.js installed. Then you can easily install JSHint via terminal `npm install -g jshint`
+* [Aqua Color Theme](https://github.com/cafarm/aqua-theme) - I prefer the ProKit variation with Tomorrow Night Aqua color scheme but [hey! there are many beautiful color schemes out htere](https://github.com/daylerees/colour-schemes)
 * Colorpicker - opens native OS color picker
-
 ## My preferences
 
 ```
