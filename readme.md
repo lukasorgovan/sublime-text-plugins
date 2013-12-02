@@ -29,10 +29,8 @@ write `/**` and press `Enter` or `Tab`. You will get block comment. If the line 
 	"theme": "ProKit.sublime-theme"
 }
 ```
-## How to sync your plugins (packages) AND preferences accross multiple computers
-Probably the best is to use Dropbox folder and make symlinks
-
-[How-to sync](http://misfoc.us/post/18018400006/syncing-sublime-text-2-settings-via-dropbox) **for Windows users**
+## How to sync your plugins & preferences MAC
+I personally use Dropbox for syncing my plugins and preferences between my home and work computer. My how-to is for Mac users, however there is also tutorial on [How-to sync](http://misfoc.us/post/18018400006/syncing-sublime-text-2-settings-via-dropbox) **for Windows users**
 
 1. Quit Sublime Text 2
 2. In your Dropbox folder create new folder called Sublime Text 2
