@@ -10,6 +10,7 @@ write `/**` and press `Enter` or `Tab`. You will get block comment. If the line 
 * [JSHint](http://www.jshint.com/install/) - you need to have Node.js installed. Then you can easily install JSHint via terminal `npm install -g jshint`
 * [Aqua Color Theme](https://github.com/cafarm/aqua-theme) - I prefer the ProKit variation with Tomorrow Night Aqua color scheme but [hey! there are many beautiful color schemes out htere](https://github.com/daylerees/colour-schemes)
 * Colorpicker - opens native OS color picker
+
 ## My preferences
 
 ```
